@@ -1,11 +1,11 @@
 GIT
-  remote: git://github.com/middleman/middleman-livereload.git
-  revision: e998762889a6d52566f97720f94a2db090d45549
+  remote: https://github.com/middleman/middleman-livereload.git
+  revision: f7374c42d5c95606fa10daaec9179d509df36c23
   specs:
-    middleman-livereload (3.4.3)
+    middleman-livereload (3.4.7)
       em-websocket (~> 0.5.1)
       middleman-core (>= 3.3)
-      rack-livereload (~> 0.3.15)
+      rack-livereload (~> 0.3.16)
 
 GEM
   remote: https://rubygems.org/
@@ -35,11 +35,11 @@ GEM
       sass (>= 3.3.0, < 3.5)
     compass-import-once (1.0.5)
       sass (>= 3.2, < 3.5)
-    em-websocket (0.5.1)
+    em-websocket (0.5.3)
       eventmachine (>= 0.12.9)
-      http_parser.rb (~> 0.6.0)
+      http_parser.rb (~> 0)
     erubis (2.7.0)
-    eventmachine (1.0.8)
+    eventmachine (1.2.7)
     execjs (2.6.0)
     ffi (1.9.10)
     haml (4.0.7)
@@ -48,7 +48,7 @@ GEM
     hitimes (1.2.3)
     hooks (0.4.1)
       uber (~> 0.0.14)
-    http_parser.rb (0.6.0)
+    http_parser.rb (0.8.0)
     i18n (0.7.0)
     json (1.8.3)
     kramdown (1.9.0)
@@ -92,8 +92,8 @@ GEM
       tilt (~> 1.4.1)
     padrino-support (0.12.5)
       activesupport (>= 3.1)
-    rack (1.6.4)
-    rack-livereload (0.3.16)
+    rack (1.6.13)
+    rack-livereload (0.3.17)
       rack
     rack-test (0.6.3)
       rack (>= 1.0)
