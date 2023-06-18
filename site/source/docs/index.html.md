@@ -1,6 +1,6 @@
 # Yoke Documentation
 
-Lorem ipsum dolor sit amet, [inline link](https://nanobox.io) consectetur adipiscing elit. Duis eget ante eros. Praesent `inline code` eleifend viverra felis ut laoreet. Sed at tellus at ipsum tempor feugiat vel eget leo. Ut sollicitudin rutrum metus. Inline Link a tellus blandit vulputate. Curabitur vitae hendrerit turpis. Ut in aliquet nisl, in tincidunt tellus. Donec vitae ipsum consectetur, dictum tellus vel, vulputate lorem.
+Lorem ipsum dolor sit amet, [inline link](https://microbox.cloud) consectetur adipiscing elit. Duis eget ante eros. Praesent `inline code` eleifend viverra felis ut laoreet. Sed at tellus at ipsum tempor feugiat vel eget leo. Ut sollicitudin rutrum metus. Inline Link a tellus blandit vulputate. Curabitur vitae hendrerit turpis. Ut in aliquet nisl, in tincidunt tellus. Donec vitae ipsum consectetur, dictum tellus vel, vulputate lorem.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis eget ante eros. Praesent eleifend viverra felis ut laoreet. Sed at tellus at ipsum tempor feugiat vel eget leo. Ut sollicitudin rutrum metus. Inline Link a tellus blandit vulputate. Curabitur vitae hendrerit turpis. Ut in aliquet nisl, in tincidunt tellus. Donec vitae ipsum consectetur, dictum tellus vel, vulputate lorem.
 
@@ -35,7 +35,7 @@ This is **bold**
 
 This is ~~strikethrough~~
 
-This is text with [an inline link](https://nanobox.io)
+This is text with [an inline link](https://microbox.cloud)
 
 1. This is the 1st item in an ordered list
 2. This is the 2nd item in an ordered list
@@ -69,7 +69,7 @@ worker1:
 ```
 
 ```bash
-$ nanobox dev
+$ microbox dev
 ```
 
 

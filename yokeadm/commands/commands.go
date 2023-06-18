@@ -22,7 +22,7 @@ var (
 	fPort string //
 )
 
-// init creates the list of available nanobox commands and sub commands
+// init creates the list of available microbox commands and sub commands
 func init() {
 
 	// persistent flags

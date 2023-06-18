@@ -5,9 +5,9 @@ import (
 	"testing"
 
 	"github.com/golang/mock/gomock"
-	"github.com/nanopack/yoke/monitor"
-	"github.com/nanopack/yoke/monitor/mock"
-	"github.com/nanopack/yoke/state/mock"
+	"github.com/mu-box/yoke/monitor"
+	"github.com/mu-box/yoke/monitor/mock"
+	"github.com/mu-box/yoke/state/mock"
 )
 
 func TestPrimary(test *testing.T) {

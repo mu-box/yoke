@@ -6,8 +6,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/nanopack/yoke/state"
-	"github.com/nanopack/yoke/state/mock"
+	"github.com/mu-box/yoke/state"
+	"github.com/mu-box/yoke/state/mock"
 )
 
 var fakeErr = errors.New("general")

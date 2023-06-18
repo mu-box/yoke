@@ -1,4 +1,3 @@
-//
 package monitor
 
 import (
@@ -7,8 +6,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/nanopack/yoke/config"
-	"github.com/nanopack/yoke/state"
+	"github.com/mu-box/yoke/config"
+	"github.com/mu-box/yoke/state"
 )
 
 var (

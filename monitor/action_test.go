@@ -5,8 +5,8 @@ import (
 	"testing"
 
 	"github.com/golang/mock/gomock"
-	"github.com/nanopack/yoke/config"
-	"github.com/nanopack/yoke/state/mock"
+	"github.com/mu-box/yoke/config"
+	"github.com/mu-box/yoke/state/mock"
 )
 
 func TestSingle(test *testing.T) {

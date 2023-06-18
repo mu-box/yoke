@@ -107,7 +107,7 @@ func ConfigurePGConf(ip string, port int) error {
 		line := scanner.Text()
 
 		// stop scanning if a special prefix is encountered. This ensures there are
-		// no duplicate Nanobox comment blocks
+		// no duplicate Microbox comment blocks
 		if strings.HasPrefix(line, "#~") {
 			break
 		}
@@ -137,7 +137,7 @@ func ConfigurePGConf(ip string, port int) error {
 #------------------------------------------------------------------------------
 
 # these configuration options have been removed from their standard location and
-# placed here so that Nanobox could override them with the neccessary values
+# placed here so that Microbox could override them with the neccessary values
 # to configure redundancy.
 
 # IMPORTANT: these settings will always be overriden when the server boots. They

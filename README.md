@@ -1,5 +1,5 @@
-[![yoke logo](http://nano-assets.gopagoda.io/readme-headers/yoke.png)](http://nanobox.io/open-source#yoke)
-[![Build Status](https://travis-ci.org/nanopack/yoke.svg)](https://travis-ci.org/nanopack/yoke)
+[![yoke logo](http://microbox.rocks/assets/readme-headers/yoke.png)](http://microbox.cloud/open-source#yoke)
+[![Build Status](https://github.com/mu-box/yoke/actions/workflows/ci.yaml/badge.svg)](https://github.com/mu-box/yoke/actions)
 
 Yoke is a Postgres redundancy/auto-failover solution that provides a high-availability PostgreSQL cluster that's simple to manage.
 
@@ -90,11 +90,11 @@ yokeadm (<COMMAND>:<ACTION> OR <ALIAS>) [GLOBAL FLAG] <POSITIONAL> [SUB FLAGS]
 
 ### Documentation
 
-Complete documentation is available on [godoc](http://godoc.org/github.com/nanopack/yoke).
+Complete documentation is available on [godoc](http://godoc.org/github.com/mu-box/yoke).
 
 
 ### Licence
 
-Mozilla Public License Version 2.0
+This project is released under [The MIT License](http://opensource.org/licenses/MIT).
 
-[![open source](http://nano-assets.gopagoda.io/open-src/nanobox-open-src.png)](http://nanobox.io/open-source)
+[![open source](http://microbox.rocks/assets/open-src/microbox-open-src.png)](http://microbox.cloud/open-source)

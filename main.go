@@ -1,4 +1,3 @@
-//
 package main
 
 import (
@@ -10,13 +9,12 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/nanobox-io/golang-scribble"
-	"github.com/nanopack/yoke/config"
-	"github.com/nanopack/yoke/monitor"
-	"github.com/nanopack/yoke/state"
+	scribble "github.com/mu-box/golang-scribble"
+	"github.com/mu-box/yoke/config"
+	"github.com/mu-box/yoke/monitor"
+	"github.com/mu-box/yoke/state"
 )
 
-//
 func main() {
 	if len(os.Args) != 2 {
 		fmt.Println("Missing required config file!")

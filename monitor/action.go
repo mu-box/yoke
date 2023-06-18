@@ -1,4 +1,3 @@
-//
 package monitor
 
 import (
@@ -16,8 +15,8 @@ import (
 
 	"github.com/hoisie/mustache"
 	_ "github.com/lib/pq"
-	"github.com/nanopack/yoke/config"
-	"github.com/nanopack/yoke/state"
+	"github.com/mu-box/yoke/config"
+	"github.com/mu-box/yoke/state"
 )
 
 var (

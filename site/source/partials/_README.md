@@ -68,9 +68,9 @@ yokeadm (<COMMAND>:<ACTION> OR <ALIAS>) [GLOBAL FLAG] <POSITIONAL> [SUB FLAGS]
 
 ### Documentation
 
-Complete documentation is available on [godoc](http://godoc.org/github.com/nanopack/yoke).
+Complete documentation is available on [godoc](http://godoc.org/github.com/mu-box/yoke).
 
 
 ### Contributing
 
-Contributions to the Yoke project are welcome and encouraged. Yoke is a [Nanobox](https://nanobox.io) project and contributions should follow the [Nanobox Contribution Process & Guidelines](https://docs.nanobox.io/contributing/).
+Contributions to the Yoke project are welcome and encouraged. Yoke is a [Microbox](https://microbox.cloud) project and contributions should follow the [Microbox Contribution Process & Guidelines](https://docs.microbox.cloud/contributing/).
